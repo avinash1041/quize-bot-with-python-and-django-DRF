@@ -1,0 +1,4 @@
+1. discord- create a bot
+2. Django DRF- API
+3. Bot logic
+4. Deploy on HERoku
